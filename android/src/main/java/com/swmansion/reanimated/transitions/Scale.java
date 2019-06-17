@@ -3,10 +3,10 @@ package com.swmansion.reanimated.transitions;
 import android.animation.Animator;
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
-import android.support.transition.Transition;
-import android.support.transition.TransitionListenerAdapter;
-import android.support.transition.TransitionValues;
-import android.support.transition.Visibility;
+import android.transition.Transition;
+import android.transition.TransitionListenerAdapter;
+import android.transition.TransitionValues;
+import android.transition.Visibility;
 import android.view.View;
 import android.view.ViewGroup;
 

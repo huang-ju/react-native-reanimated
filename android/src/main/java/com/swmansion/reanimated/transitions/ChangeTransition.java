@@ -3,13 +3,13 @@ package com.swmansion.reanimated.transitions;
 import android.animation.Animator;
 import android.animation.AnimatorSet;
 import android.animation.TimeInterpolator;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
-import android.support.transition.ChangeBounds;
-import android.support.transition.ChangeTransform;
-import android.support.transition.Transition;
-import android.support.transition.TransitionPropagation;
-import android.support.transition.TransitionValues;
+import android.annotation.NonNull;
+import android.annotation.Nullable;
+import android.transition.ChangeBounds;
+import android.transition.ChangeTransform;
+import android.transition.Transition;
+import android.transition.TransitionPropagation;
+import android.transition.TransitionValues;
 import android.view.ViewGroup;
 
 final class ChangeTransition extends Transition {

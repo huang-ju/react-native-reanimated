@@ -1,11 +1,11 @@
 package com.swmansion.reanimated.transitions;
 
-import android.support.transition.Fade;
-import android.support.transition.SidePropagation;
-import android.support.transition.Slide;
-import android.support.transition.Transition;
-import android.support.transition.TransitionSet;
-import android.support.transition.Visibility;
+import android.transition.Fade;
+import android.transition.SidePropagation;
+import android.transition.Slide;
+import android.transition.Transition;
+import android.transition.TransitionSet;
+import android.transition.Visibility;
 import android.view.Gravity;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.view.animation.AccelerateInterpolator;

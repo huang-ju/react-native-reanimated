@@ -1,8 +1,8 @@
 package com.swmansion.reanimated.transitions;
 
-import android.support.transition.SidePropagation;
-import android.support.transition.Transition;
-import android.support.transition.TransitionValues;
+import android.transition.SidePropagation;
+import android.transition.Transition;
+import android.transition.TransitionValues;
 import android.view.View;
 import android.view.ViewGroup;
 
